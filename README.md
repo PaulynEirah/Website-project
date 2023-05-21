@@ -65,7 +65,7 @@
   <header>
     <h1><a href="Abanes, Paulyn Eirah (FP).html"><b>PCNL</b></h1></a>
   </header>
-    <img src="logo.jpg" width=1350px alt="Image">
+    <img src="logo.jpg" width=1150px alt="Image">
 
 </nav>
 <div class="container-fluid bg-3 text-center">
